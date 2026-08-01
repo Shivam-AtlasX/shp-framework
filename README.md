@@ -1,6 +1,6 @@
 # SHP — Smart Human Protocol
  
-**Version:** 1.0.0
+**Version:** 3.0.0
 **Type:** Claude Skill — Reasoning Framework
 **Format:** `.skill` archive / repository zip
  
