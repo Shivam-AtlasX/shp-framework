@@ -156,7 +156,7 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 | Version | Release | Summary |
 |---|---|---|
-| 4.0.0 | 2025 | Autonomous reasoning architecture — 22-stage pipeline, 5 new engines, Token Intelligence module |
-| 3.2.0 | 2025 | Innovation and Education modules |
-| 3.1.0 | 2025 | Planning Engine and API Design example |
-| 3.0.0 | 2025 | Initial public release |
+| 4.0.0 | 2026 | Autonomous reasoning architecture — 22-stage pipeline, 5 new engines, Token Intelligence module |
+| 3.2.0 | 2026 | Innovation and Education modules |
+| 3.1.0 | 2026 | Planning Engine and API Design example |
+| 3.0.0 | 2026 | Initial public release |
