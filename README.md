@@ -1,6 +1,6 @@
 # SHP — Smart Human Protocol
 
-**Version:** 3.0.0  
+**Version:** 4.0.0  
 **Type:** Claude Skill (Enterprise Reasoning Framework)  
 **Format:** `.skill` archive
 
